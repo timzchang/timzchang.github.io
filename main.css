@@ -34,7 +34,7 @@ div.contact { font-size: 16px; }
 
 .contact dt { margin-top: 20px; color: #2980b9; }
 .contact dd { margin-left: 0;}
-img { max-width: 200; max-height: 500; width: 200; height: 500;}
+img { max-width: 200; }
 
 .button {
   -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;
