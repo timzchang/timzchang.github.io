@@ -32,7 +32,7 @@ div.bigmain { margin-left: 50px; margin-right: 50px; }
 div.picture { margin: 15px 0; }
 div.contact { font-size: 16px; }
 
-.contact dt { margin-top: 20px; color: #2980b9; }
+.contact dt { margin-top: 20px;  }
 .contact dd { margin-left: 0;}
 img { max-width: 200; }
 
@@ -42,9 +42,10 @@ img { max-width: 200; }
   margin: 4px;
   text-decoration:none;
   display:inline-block;
-  color: #FFFFFF;
-  background-color: #2980b9;
   cursor: pointer;
+  border: solid 1px #2980b9;
+  color: #2980b9;
+  font-size: 30px;
 }
 
 .smallbutton {
